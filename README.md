@@ -13,7 +13,8 @@
 
 Add this line to your application's Gemfile:
 
-    gem 'bitfinex-rb', :require => "bitfinex"
+    gem 'bitfinex-rb', git: 'https://github.com/clr-xdat/bitfinex-rb-with-resolved-dependencies', :require => "bitfinex"
+
 
 And then execute:
 
